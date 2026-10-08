@@ -1,2 +1,1 @@
-# Animtvv_bot
-Telegram Anime Bot
+print("Anime bot ishga tushdi!")
